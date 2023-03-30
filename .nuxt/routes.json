@@ -1,0 +1,1929 @@
+[
+  {
+    "name": "AboutUs",
+    "path": "/AboutUs",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\AboutUs.vue",
+    "chunkName": "pages/AboutUs",
+    "url": "/AboutUs"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "url": "/blog"
+  },
+  {
+    "name": "brands",
+    "path": "/brands",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\brands.vue",
+    "chunkName": "pages/brands",
+    "url": "/brands"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart",
+    "url": "/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout",
+    "url": "/checkout"
+  },
+  {
+    "name": "Compare",
+    "path": "/Compare",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\Compare.vue",
+    "chunkName": "pages/Compare",
+    "url": "/Compare"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "url": "/contact"
+  },
+  {
+    "name": "customer",
+    "path": "/customer",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\customer\\\\index.vue",
+    "chunkName": "pages/customer/index",
+    "url": "/customer"
+  },
+  {
+    "name": "forgot-password",
+    "path": "/forgot-password",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\forgot-password.vue",
+    "chunkName": "pages/forgot-password",
+    "url": "/forgot-password"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login"
+  },
+  {
+    "name": "new-arrival-products",
+    "path": "/new-arrival-products",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\new-arrival-products.vue",
+    "chunkName": "pages/new-arrival-products",
+    "url": "/new-arrival-products"
+  },
+  {
+    "name": "PrivacyPolicy",
+    "path": "/PrivacyPolicy",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\PrivacyPolicy.vue",
+    "chunkName": "pages/PrivacyPolicy",
+    "url": "/PrivacyPolicy"
+  },
+  {
+    "name": "ProductOrder",
+    "path": "/ProductOrder",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\ProductOrder.vue",
+    "chunkName": "pages/ProductOrder",
+    "url": "/ProductOrder"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "url": "/profile"
+  },
+  {
+    "name": "RefundPolicy",
+    "path": "/RefundPolicy",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\RefundPolicy.vue",
+    "chunkName": "pages/RefundPolicy",
+    "url": "/RefundPolicy"
+  },
+  {
+    "name": "reset-password",
+    "path": "/reset-password",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\reset-password.vue",
+    "chunkName": "pages/reset-password",
+    "url": "/reset-password"
+  },
+  {
+    "name": "Shop",
+    "path": "/Shop",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\Shop.vue",
+    "chunkName": "pages/Shop",
+    "url": "/Shop"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/signup"
+  },
+  {
+    "name": "sorry",
+    "path": "/sorry",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\sorry.vue",
+    "chunkName": "pages/sorry",
+    "url": "/sorry"
+  },
+  {
+    "name": "stores",
+    "path": "/stores",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\stores.vue",
+    "chunkName": "pages/stores",
+    "url": "/stores"
+  },
+  {
+    "name": "template2",
+    "path": "/template2",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\template2.vue",
+    "chunkName": "pages/template2",
+    "url": "/template2"
+  },
+  {
+    "name": "TermCondition",
+    "path": "/TermCondition",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\TermCondition.vue",
+    "chunkName": "pages/TermCondition",
+    "url": "/TermCondition"
+  },
+  {
+    "name": "TermsAndConditions",
+    "path": "/TermsAndConditions",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\TermsAndConditions.vue",
+    "chunkName": "pages/TermsAndConditions",
+    "url": "/TermsAndConditions"
+  },
+  {
+    "name": "verify_login",
+    "path": "/verify_login",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\verify_login.vue",
+    "chunkName": "pages/verify_login",
+    "url": "/verify_login"
+  },
+  {
+    "name": "welcome",
+    "path": "/welcome",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\welcome.vue",
+    "chunkName": "pages/welcome",
+    "url": "/welcome"
+  },
+  {
+    "name": "WishList",
+    "path": "/WishList",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\WishList.vue",
+    "chunkName": "pages/WishList",
+    "url": "/WishList"
+  },
+  {
+    "name": "admin-about_us",
+    "path": "/admin/about_us",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\about_us\\\\index.vue",
+    "chunkName": "pages/admin/about_us/index",
+    "url": "/admin/about_us"
+  },
+  {
+    "name": "admin-admins",
+    "path": "/admin/admins",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\admins\\\\index.vue",
+    "chunkName": "pages/admin/admins/index",
+    "url": "/admin/admins"
+  },
+  {
+    "name": "admin-alert_settings",
+    "path": "/admin/alert_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\alert_settings\\\\index.vue",
+    "chunkName": "pages/admin/alert_settings/index",
+    "url": "/admin/alert_settings"
+  },
+  {
+    "name": "admin-api_protection_settings",
+    "path": "/admin/api_protection_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\api_protection_settings\\\\index.vue",
+    "chunkName": "pages/admin/api_protection_settings/index",
+    "url": "/admin/api_protection_settings"
+  },
+  {
+    "name": "admin-application_banners",
+    "path": "/admin/application_banners",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_banners\\\\index.vue",
+    "chunkName": "pages/admin/application_banners/index",
+    "url": "/admin/application_banners"
+  },
+  {
+    "name": "admin-application_parallax_banners",
+    "path": "/admin/application_parallax_banners",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_parallax_banners\\\\index.vue",
+    "chunkName": "pages/admin/application_parallax_banners/index",
+    "url": "/admin/application_parallax_banners"
+  },
+  {
+    "name": "admin-application_slider_images",
+    "path": "/admin/application_slider_images",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_slider_images\\\\index.vue",
+    "chunkName": "pages/admin/application_slider_images/index",
+    "url": "/admin/application_slider_images"
+  },
+  {
+    "name": "admin-attribute_values",
+    "path": "/admin/attribute_values",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attribute_values\\\\index.vue",
+    "chunkName": "pages/admin/attribute_values/index",
+    "url": "/admin/attribute_values"
+  },
+  {
+    "name": "admin-attributes",
+    "path": "/admin/attributes",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attributes\\\\index.vue",
+    "chunkName": "pages/admin/attributes/index",
+    "url": "/admin/attributes"
+  },
+  {
+    "name": "admin-brands",
+    "path": "/admin/brands",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\brands\\\\index.vue",
+    "chunkName": "pages/admin/brands/index",
+    "url": "/admin/brands"
+  },
+  {
+    "name": "admin-categories",
+    "path": "/admin/categories",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\categories\\\\index.vue",
+    "chunkName": "pages/admin/categories/index",
+    "url": "/admin/categories"
+  },
+  {
+    "name": "admin-cities",
+    "path": "/admin/cities",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\cities\\\\index.vue",
+    "chunkName": "pages/admin/cities/index",
+    "url": "/admin/cities"
+  },
+  {
+    "name": "admin-clear",
+    "path": "/admin/clear",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\clear.vue",
+    "chunkName": "pages/admin/clear",
+    "url": "/admin/clear"
+  },
+  {
+    "name": "admin-commissions",
+    "path": "/admin/commissions",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\commissions\\\\index.vue",
+    "chunkName": "pages/admin/commissions/index",
+    "url": "/admin/commissions"
+  },
+  {
+    "name": "admin-contact_forms",
+    "path": "/admin/contact_forms",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\contact_forms\\\\index.vue",
+    "chunkName": "pages/admin/contact_forms/index",
+    "url": "/admin/contact_forms"
+  },
+  {
+    "name": "admin-content_application_pages",
+    "path": "/admin/content_application_pages",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_application_pages\\\\index.vue",
+    "chunkName": "pages/admin/content_application_pages/index",
+    "url": "/admin/content_application_pages"
+  },
+  {
+    "name": "admin-content_pages",
+    "path": "/admin/content_pages",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_pages\\\\index.vue",
+    "chunkName": "pages/admin/content_pages/index",
+    "url": "/admin/content_pages"
+  },
+  {
+    "name": "admin-countries",
+    "path": "/admin/countries",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\countries\\\\index.vue",
+    "chunkName": "pages/admin/countries/index",
+    "url": "/admin/countries"
+  },
+  {
+    "name": "admin-coupons",
+    "path": "/admin/coupons",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\coupons\\\\index.vue",
+    "chunkName": "pages/admin/coupons/index",
+    "url": "/admin/coupons"
+  },
+  {
+    "name": "admin-currencies",
+    "path": "/admin/currencies",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\currencies\\\\index.vue",
+    "chunkName": "pages/admin/currencies/index",
+    "url": "/admin/currencies"
+  },
+  {
+    "name": "admin-customers",
+    "path": "/admin/customers",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\customers\\\\index.vue",
+    "chunkName": "pages/admin/customers/index",
+    "url": "/admin/customers"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\dashboard.vue",
+    "chunkName": "pages/admin/dashboard",
+    "url": "/admin/dashboard"
+  },
+  {
+    "name": "admin-error_page",
+    "path": "/admin/error_page",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\error_page.vue",
+    "chunkName": "pages/admin/error_page",
+    "url": "/admin/error_page"
+  },
+  {
+    "name": "admin-facebook_settings",
+    "path": "/admin/facebook_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\facebook_settings\\\\index.vue",
+    "chunkName": "pages/admin/facebook_settings/index",
+    "url": "/admin/facebook_settings"
+  },
+  {
+    "name": "admin-faqs",
+    "path": "/admin/faqs",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\faqs\\\\index.vue",
+    "chunkName": "pages/admin/faqs/index",
+    "url": "/admin/faqs"
+  },
+  {
+    "name": "admin-google_settings",
+    "path": "/admin/google_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\google_settings\\\\index.vue",
+    "chunkName": "pages/admin/google_settings/index",
+    "url": "/admin/google_settings"
+  },
+  {
+    "name": "admin-inventories",
+    "path": "/admin/inventories",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\inventories\\\\index.vue",
+    "chunkName": "pages/admin/inventories/index",
+    "url": "/admin/inventories"
+  },
+  {
+    "name": "admin-languages",
+    "path": "/admin/languages",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\languages\\\\index.vue",
+    "chunkName": "pages/admin/languages/index",
+    "url": "/admin/languages"
+  },
+  {
+    "name": "admin-live_chat",
+    "path": "/admin/live_chat",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\live_chat\\\\index.vue",
+    "chunkName": "pages/admin/live_chat/index",
+    "url": "/admin/live_chat"
+  },
+  {
+    "name": "admin-login",
+    "path": "/admin/login",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\login.vue",
+    "chunkName": "pages/admin/login",
+    "url": "/admin/login"
+  },
+  {
+    "name": "admin-main_settings",
+    "path": "/admin/main_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\main_settings\\\\index.vue",
+    "chunkName": "pages/admin/main_settings/index",
+    "url": "/admin/main_settings"
+  },
+  {
+    "name": "admin-manufacturers",
+    "path": "/admin/manufacturers",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\manufacturers\\\\index.vue",
+    "chunkName": "pages/admin/manufacturers/index",
+    "url": "/admin/manufacturers"
+  },
+  {
+    "name": "admin-media",
+    "path": "/admin/media",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\media\\\\index.vue",
+    "chunkName": "pages/admin/media/index",
+    "url": "/admin/media"
+  },
+  {
+    "name": "admin-news",
+    "path": "/admin/news",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news\\\\index.vue",
+    "chunkName": "pages/admin/news/index",
+    "url": "/admin/news"
+  },
+  {
+    "name": "admin-news_categories",
+    "path": "/admin/news_categories",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news_categories\\\\index.vue",
+    "chunkName": "pages/admin/news_categories/index",
+    "url": "/admin/news_categories"
+  },
+  {
+    "name": "admin-newsletters",
+    "path": "/admin/newsletters",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\newsletters\\\\index.vue",
+    "chunkName": "pages/admin/newsletters/index",
+    "url": "/admin/newsletters"
+  },
+  {
+    "name": "admin-order_statuses",
+    "path": "/admin/order_statuses",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\order_statuses\\\\index.vue",
+    "chunkName": "pages/admin/order_statuses/index",
+    "url": "/admin/order_statuses"
+  },
+  {
+    "name": "admin-orders",
+    "path": "/admin/orders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\orders\\\\index.vue",
+    "chunkName": "pages/admin/orders/index",
+    "url": "/admin/orders"
+  },
+  {
+    "name": "admin-parallax_banners",
+    "path": "/admin/parallax_banners",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\parallax_banners\\\\index.vue",
+    "chunkName": "pages/admin/parallax_banners/index",
+    "url": "/admin/parallax_banners"
+  },
+  {
+    "name": "admin-payment_methods",
+    "path": "/admin/payment_methods",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\payment_methods\\\\index.vue",
+    "chunkName": "pages/admin/payment_methods/index",
+    "url": "/admin/payment_methods"
+  },
+  {
+    "name": "admin-payout_requests",
+    "path": "/admin/payout_requests",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\payout_requests\\\\index.vue",
+    "chunkName": "pages/admin/payout_requests/index",
+    "url": "/admin/payout_requests"
+  },
+  {
+    "name": "admin-permissions",
+    "path": "/admin/permissions",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\permissions\\\\index.vue",
+    "chunkName": "pages/admin/permissions/index",
+    "url": "/admin/permissions"
+  },
+  {
+    "name": "admin-privacy_policy",
+    "path": "/admin/privacy_policy",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\privacy_policy\\\\index.vue",
+    "chunkName": "pages/admin/privacy_policy/index",
+    "url": "/admin/privacy_policy"
+  },
+  {
+    "name": "admin-products",
+    "path": "/admin/products",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\products\\\\index.vue",
+    "chunkName": "pages/admin/products/index",
+    "url": "/admin/products"
+  },
+  {
+    "name": "admin-profile",
+    "path": "/admin/profile",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\profile\\\\index.vue",
+    "chunkName": "pages/admin/profile/index",
+    "url": "/admin/profile"
+  },
+  {
+    "name": "admin-refund_policy",
+    "path": "/admin/refund_policy",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\refund_policy\\\\index.vue",
+    "chunkName": "pages/admin/refund_policy/index",
+    "url": "/admin/refund_policy"
+  },
+  {
+    "name": "admin-review_statuses",
+    "path": "/admin/review_statuses",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\review_statuses\\\\index.vue",
+    "chunkName": "pages/admin/review_statuses/index",
+    "url": "/admin/review_statuses"
+  },
+  {
+    "name": "admin-reviews",
+    "path": "/admin/reviews",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reviews\\\\index.vue",
+    "chunkName": "pages/admin/reviews/index",
+    "url": "/admin/reviews"
+  },
+  {
+    "name": "admin-rider_payout_requests",
+    "path": "/admin/rider_payout_requests",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\rider_payout_requests\\\\index.vue",
+    "chunkName": "pages/admin/rider_payout_requests/index",
+    "url": "/admin/rider_payout_requests"
+  },
+  {
+    "name": "admin-rider_shipping",
+    "path": "/admin/rider_shipping",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\rider_shipping\\\\index.vue",
+    "chunkName": "pages/admin/rider_shipping/index",
+    "url": "/admin/rider_shipping"
+  },
+  {
+    "name": "admin-riders",
+    "path": "/admin/riders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\riders\\\\index.vue",
+    "chunkName": "pages/admin/riders/index",
+    "url": "/admin/riders"
+  },
+  {
+    "name": "admin-roles",
+    "path": "/admin/roles",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\roles\\\\index.vue",
+    "chunkName": "pages/admin/roles/index",
+    "url": "/admin/roles"
+  },
+  {
+    "name": "admin-seo_pages",
+    "path": "/admin/seo_pages",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\seo_pages\\\\index.vue",
+    "chunkName": "pages/admin/seo_pages/index",
+    "url": "/admin/seo_pages"
+  },
+  {
+    "name": "admin-settings",
+    "path": "/admin/settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\settings\\\\index.vue",
+    "chunkName": "pages/admin/settings/index",
+    "url": "/admin/settings"
+  },
+  {
+    "name": "admin-shipping_methods",
+    "path": "/admin/shipping_methods",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\shipping_methods\\\\index.vue",
+    "chunkName": "pages/admin/shipping_methods/index",
+    "url": "/admin/shipping_methods"
+  },
+  {
+    "name": "admin-slider_images",
+    "path": "/admin/slider_images",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\slider_images\\\\index.vue",
+    "chunkName": "pages/admin/slider_images/index",
+    "url": "/admin/slider_images"
+  },
+  {
+    "name": "admin-social_login_settings",
+    "path": "/admin/social_login_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\social_login_settings\\\\index.vue",
+    "chunkName": "pages/admin/social_login_settings/index",
+    "url": "/admin/social_login_settings"
+  },
+  {
+    "name": "admin-sorry",
+    "path": "/admin/sorry",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\sorry.vue",
+    "chunkName": "pages/admin/sorry",
+    "url": "/admin/sorry"
+  },
+  {
+    "name": "admin-states",
+    "path": "/admin/states",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\states\\\\index.vue",
+    "chunkName": "pages/admin/states/index",
+    "url": "/admin/states"
+  },
+  {
+    "name": "admin-static_banners",
+    "path": "/admin/static_banners",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\static_banners\\\\index.vue",
+    "chunkName": "pages/admin/static_banners/index",
+    "url": "/admin/static_banners"
+  },
+  {
+    "name": "admin-store_settings",
+    "path": "/admin/store_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\store_settings\\\\index.vue",
+    "chunkName": "pages/admin/store_settings/index",
+    "url": "/admin/store_settings"
+  },
+  {
+    "name": "admin-tabs",
+    "path": "/admin/tabs",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tabs\\\\index.vue",
+    "chunkName": "pages/admin/tabs/index",
+    "url": "/admin/tabs"
+  },
+  {
+    "name": "admin-tax_classes",
+    "path": "/admin/tax_classes",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_classes\\\\index.vue",
+    "chunkName": "pages/admin/tax_classes/index",
+    "url": "/admin/tax_classes"
+  },
+  {
+    "name": "admin-tax_rates",
+    "path": "/admin/tax_rates",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_rates\\\\index.vue",
+    "chunkName": "pages/admin/tax_rates/index",
+    "url": "/admin/tax_rates"
+  },
+  {
+    "name": "admin-term_condition",
+    "path": "/admin/term_condition",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\term_condition\\\\index.vue",
+    "chunkName": "pages/admin/term_condition/index",
+    "url": "/admin/term_condition"
+  },
+  {
+    "name": "admin-theme_settings",
+    "path": "/admin/theme_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\theme_settings\\\\index.vue",
+    "chunkName": "pages/admin/theme_settings/index",
+    "url": "/admin/theme_settings"
+  },
+  {
+    "name": "admin-units",
+    "path": "/admin/units",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\units\\\\index.vue",
+    "chunkName": "pages/admin/units/index",
+    "url": "/admin/units"
+  },
+  {
+    "name": "admin-vendors",
+    "path": "/admin/vendors",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\vendors\\\\index.vue",
+    "chunkName": "pages/admin/vendors/index",
+    "url": "/admin/vendors"
+  },
+  {
+    "name": "admin-zones",
+    "path": "/admin/zones",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\zones\\\\index.vue",
+    "chunkName": "pages/admin/zones/index",
+    "url": "/admin/zones"
+  },
+  {
+    "name": "customer-orders",
+    "path": "/customer/orders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\customer\\\\orders\\\\index.vue",
+    "chunkName": "pages/customer/orders/index",
+    "url": "/customer/orders"
+  },
+  {
+    "name": "customer-profile",
+    "path": "/customer/profile",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\customer\\\\profile.vue",
+    "chunkName": "pages/customer/profile",
+    "url": "/customer/profile"
+  },
+  {
+    "name": "customer-wallet",
+    "path": "/customer/wallet",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\customer\\\\wallet.vue",
+    "chunkName": "pages/customer/wallet",
+    "url": "/customer/wallet"
+  },
+  {
+    "name": "seller-clear",
+    "path": "/seller/clear",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\clear.vue",
+    "chunkName": "pages/seller/clear",
+    "url": "/seller/clear"
+  },
+  {
+    "name": "seller-dashboard",
+    "path": "/seller/dashboard",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\dashboard.vue",
+    "chunkName": "pages/seller/dashboard",
+    "url": "/seller/dashboard"
+  },
+  {
+    "name": "seller-faqs",
+    "path": "/seller/faqs",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\faqs\\\\index.vue",
+    "chunkName": "pages/seller/faqs/index",
+    "url": "/seller/faqs"
+  },
+  {
+    "name": "seller-live_chat",
+    "path": "/seller/live_chat",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\live_chat\\\\index.vue",
+    "chunkName": "pages/seller/live_chat/index",
+    "url": "/seller/live_chat"
+  },
+  {
+    "name": "seller-login",
+    "path": "/seller/login",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\login.vue",
+    "chunkName": "pages/seller/login",
+    "url": "/seller/login"
+  },
+  {
+    "name": "seller-media",
+    "path": "/seller/media",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\media\\\\index.vue",
+    "chunkName": "pages/seller/media/index",
+    "url": "/seller/media"
+  },
+  {
+    "name": "seller-orders",
+    "path": "/seller/orders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\orders\\\\index.vue",
+    "chunkName": "pages/seller/orders/index",
+    "url": "/seller/orders"
+  },
+  {
+    "name": "seller-products",
+    "path": "/seller/products",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\products\\\\index.vue",
+    "chunkName": "pages/seller/products/index",
+    "url": "/seller/products"
+  },
+  {
+    "name": "seller-profile",
+    "path": "/seller/profile",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\profile\\\\index.vue",
+    "chunkName": "pages/seller/profile/index",
+    "url": "/seller/profile"
+  },
+  {
+    "name": "seller-reviews",
+    "path": "/seller/reviews",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reviews\\\\index.vue",
+    "chunkName": "pages/seller/reviews/index",
+    "url": "/seller/reviews"
+  },
+  {
+    "name": "seller-rider_payout_requests",
+    "path": "/seller/rider_payout_requests",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\rider_payout_requests\\\\index.vue",
+    "chunkName": "pages/seller/rider_payout_requests/index",
+    "url": "/seller/rider_payout_requests"
+  },
+  {
+    "name": "seller-rider_shipping",
+    "path": "/seller/rider_shipping",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\rider_shipping\\\\index.vue",
+    "chunkName": "pages/seller/rider_shipping/index",
+    "url": "/seller/rider_shipping"
+  },
+  {
+    "name": "seller-riders",
+    "path": "/seller/riders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\riders\\\\index.vue",
+    "chunkName": "pages/seller/riders/index",
+    "url": "/seller/riders"
+  },
+  {
+    "name": "seller-seo_pages",
+    "path": "/seller/seo_pages",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\seo_pages\\\\index.vue",
+    "chunkName": "pages/seller/seo_pages/index",
+    "url": "/seller/seo_pages"
+  },
+  {
+    "name": "seller-settings",
+    "path": "/seller/settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\settings\\\\index.vue",
+    "chunkName": "pages/seller/settings/index",
+    "url": "/seller/settings"
+  },
+  {
+    "name": "seller-sorry",
+    "path": "/seller/sorry",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\sorry.vue",
+    "chunkName": "pages/seller/sorry",
+    "url": "/seller/sorry"
+  },
+  {
+    "name": "seller-static_banners",
+    "path": "/seller/static_banners",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\static_banners\\\\index.vue",
+    "chunkName": "pages/seller/static_banners/index",
+    "url": "/seller/static_banners"
+  },
+  {
+    "name": "seller-store_settings",
+    "path": "/seller/store_settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\store_settings\\\\index.vue",
+    "chunkName": "pages/seller/store_settings/index",
+    "url": "/seller/store_settings"
+  },
+  {
+    "name": "seller-wallet",
+    "path": "/seller/wallet",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\wallet\\\\index.vue",
+    "chunkName": "pages/seller/wallet/index",
+    "url": "/seller/wallet"
+  },
+  {
+    "name": "admin-admins-create",
+    "path": "/admin/admins/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\admins\\\\create.vue",
+    "chunkName": "pages/admin/admins/create",
+    "url": "/admin/admins/create"
+  },
+  {
+    "name": "admin-application_banners-create",
+    "path": "/admin/application_banners/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_banners\\\\create.vue",
+    "chunkName": "pages/admin/application_banners/create",
+    "url": "/admin/application_banners/create"
+  },
+  {
+    "name": "admin-application_parallax_banners-create",
+    "path": "/admin/application_parallax_banners/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_parallax_banners\\\\create.vue",
+    "chunkName": "pages/admin/application_parallax_banners/create",
+    "url": "/admin/application_parallax_banners/create"
+  },
+  {
+    "name": "admin-application_slider_images-create",
+    "path": "/admin/application_slider_images/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_slider_images\\\\create.vue",
+    "chunkName": "pages/admin/application_slider_images/create",
+    "url": "/admin/application_slider_images/create"
+  },
+  {
+    "name": "admin-attribute_values-create",
+    "path": "/admin/attribute_values/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attribute_values\\\\create.vue",
+    "chunkName": "pages/admin/attribute_values/create",
+    "url": "/admin/attribute_values/create"
+  },
+  {
+    "name": "admin-attributes-create",
+    "path": "/admin/attributes/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attributes\\\\create.vue",
+    "chunkName": "pages/admin/attributes/create",
+    "url": "/admin/attributes/create"
+  },
+  {
+    "name": "admin-brands-create",
+    "path": "/admin/brands/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\brands\\\\create.vue",
+    "chunkName": "pages/admin/brands/create",
+    "url": "/admin/brands/create"
+  },
+  {
+    "name": "admin-categories-create",
+    "path": "/admin/categories/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\categories\\\\create.vue",
+    "chunkName": "pages/admin/categories/create",
+    "url": "/admin/categories/create"
+  },
+  {
+    "name": "admin-cities-create",
+    "path": "/admin/cities/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\cities\\\\create.vue",
+    "chunkName": "pages/admin/cities/create",
+    "url": "/admin/cities/create"
+  },
+  {
+    "name": "admin-contact_forms-create",
+    "path": "/admin/contact_forms/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\contact_forms\\\\create.vue",
+    "chunkName": "pages/admin/contact_forms/create",
+    "url": "/admin/contact_forms/create"
+  },
+  {
+    "name": "admin-content_application_pages-create",
+    "path": "/admin/content_application_pages/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_application_pages\\\\create.vue",
+    "chunkName": "pages/admin/content_application_pages/create",
+    "url": "/admin/content_application_pages/create"
+  },
+  {
+    "name": "admin-content_pages-create",
+    "path": "/admin/content_pages/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_pages\\\\create.vue",
+    "chunkName": "pages/admin/content_pages/create",
+    "url": "/admin/content_pages/create"
+  },
+  {
+    "name": "admin-countries-create",
+    "path": "/admin/countries/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\countries\\\\create.vue",
+    "chunkName": "pages/admin/countries/create",
+    "url": "/admin/countries/create"
+  },
+  {
+    "name": "admin-coupons-create",
+    "path": "/admin/coupons/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\coupons\\\\create.vue",
+    "chunkName": "pages/admin/coupons/create",
+    "url": "/admin/coupons/create"
+  },
+  {
+    "name": "admin-currencies-create",
+    "path": "/admin/currencies/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\currencies\\\\create.vue",
+    "chunkName": "pages/admin/currencies/create",
+    "url": "/admin/currencies/create"
+  },
+  {
+    "name": "admin-customers-create",
+    "path": "/admin/customers/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\customers\\\\create.vue",
+    "chunkName": "pages/admin/customers/create",
+    "url": "/admin/customers/create"
+  },
+  {
+    "name": "admin-faqs-create",
+    "path": "/admin/faqs/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\faqs\\\\create.vue",
+    "chunkName": "pages/admin/faqs/create",
+    "url": "/admin/faqs/create"
+  },
+  {
+    "name": "admin-languages-create",
+    "path": "/admin/languages/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\languages\\\\create.vue",
+    "chunkName": "pages/admin/languages/create",
+    "url": "/admin/languages/create"
+  },
+  {
+    "name": "admin-manufacturers-create",
+    "path": "/admin/manufacturers/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\manufacturers\\\\create.vue",
+    "chunkName": "pages/admin/manufacturers/create",
+    "url": "/admin/manufacturers/create"
+  },
+  {
+    "name": "admin-media-mediaDetail",
+    "path": "/admin/media/mediaDetail",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\media\\\\mediaDetail.vue",
+    "chunkName": "pages/admin/media/mediaDetail",
+    "url": "/admin/media/mediaDetail"
+  },
+  {
+    "name": "admin-media-settings",
+    "path": "/admin/media/settings",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\media\\\\settings.vue",
+    "chunkName": "pages/admin/media/settings",
+    "url": "/admin/media/settings"
+  },
+  {
+    "name": "admin-news_categories-create",
+    "path": "/admin/news_categories/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news_categories\\\\create.vue",
+    "chunkName": "pages/admin/news_categories/create",
+    "url": "/admin/news_categories/create"
+  },
+  {
+    "name": "admin-news-create",
+    "path": "/admin/news/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news\\\\create.vue",
+    "chunkName": "pages/admin/news/create",
+    "url": "/admin/news/create"
+  },
+  {
+    "name": "admin-newsletters-create",
+    "path": "/admin/newsletters/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\newsletters\\\\create.vue",
+    "chunkName": "pages/admin/newsletters/create",
+    "url": "/admin/newsletters/create"
+  },
+  {
+    "name": "admin-order_statuses-create",
+    "path": "/admin/order_statuses/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\order_statuses\\\\create.vue",
+    "chunkName": "pages/admin/order_statuses/create",
+    "url": "/admin/order_statuses/create"
+  },
+  {
+    "name": "admin-parallax_banners-create",
+    "path": "/admin/parallax_banners/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\parallax_banners\\\\create.vue",
+    "chunkName": "pages/admin/parallax_banners/create",
+    "url": "/admin/parallax_banners/create"
+  },
+  {
+    "name": "admin-permissions-create",
+    "path": "/admin/permissions/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\permissions\\\\create.vue",
+    "chunkName": "pages/admin/permissions/create",
+    "url": "/admin/permissions/create"
+  },
+  {
+    "name": "admin-products-create",
+    "path": "/admin/products/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\products\\\\create.vue",
+    "chunkName": "pages/admin/products/create",
+    "url": "/admin/products/create"
+  },
+  {
+    "name": "admin-reports-customers",
+    "path": "/admin/reports/customers",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reports\\\\customers\\\\index.vue",
+    "chunkName": "pages/admin/reports/customers/index",
+    "url": "/admin/reports/customers"
+  },
+  {
+    "name": "admin-reports-orders",
+    "path": "/admin/reports/orders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reports\\\\orders\\\\index.vue",
+    "chunkName": "pages/admin/reports/orders/index",
+    "url": "/admin/reports/orders"
+  },
+  {
+    "name": "admin-reports-products",
+    "path": "/admin/reports/products",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reports\\\\products\\\\index.vue",
+    "chunkName": "pages/admin/reports/products/index",
+    "url": "/admin/reports/products"
+  },
+  {
+    "name": "admin-reports-sales",
+    "path": "/admin/reports/sales",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reports\\\\sales\\\\index.vue",
+    "chunkName": "pages/admin/reports/sales/index",
+    "url": "/admin/reports/sales"
+  },
+  {
+    "name": "admin-review_statuses-create",
+    "path": "/admin/review_statuses/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\review_statuses\\\\create.vue",
+    "chunkName": "pages/admin/review_statuses/create",
+    "url": "/admin/review_statuses/create"
+  },
+  {
+    "name": "admin-reviews-create",
+    "path": "/admin/reviews/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reviews\\\\create.vue",
+    "chunkName": "pages/admin/reviews/create",
+    "url": "/admin/reviews/create"
+  },
+  {
+    "name": "admin-riders-create",
+    "path": "/admin/riders/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\riders\\\\create.vue",
+    "chunkName": "pages/admin/riders/create",
+    "url": "/admin/riders/create"
+  },
+  {
+    "name": "admin-roles-create",
+    "path": "/admin/roles/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\roles\\\\create.vue",
+    "chunkName": "pages/admin/roles/create",
+    "url": "/admin/roles/create"
+  },
+  {
+    "name": "admin-seo_pages-create",
+    "path": "/admin/seo_pages/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\seo_pages\\\\create.vue",
+    "chunkName": "pages/admin/seo_pages/create",
+    "url": "/admin/seo_pages/create"
+  },
+  {
+    "name": "admin-slider_images-create",
+    "path": "/admin/slider_images/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\slider_images\\\\create.vue",
+    "chunkName": "pages/admin/slider_images/create",
+    "url": "/admin/slider_images/create"
+  },
+  {
+    "name": "admin-states-create",
+    "path": "/admin/states/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\states\\\\create.vue",
+    "chunkName": "pages/admin/states/create",
+    "url": "/admin/states/create"
+  },
+  {
+    "name": "admin-static_banners-create",
+    "path": "/admin/static_banners/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\static_banners\\\\create.vue",
+    "chunkName": "pages/admin/static_banners/create",
+    "url": "/admin/static_banners/create"
+  },
+  {
+    "name": "admin-tabs-create",
+    "path": "/admin/tabs/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tabs\\\\create.vue",
+    "chunkName": "pages/admin/tabs/create",
+    "url": "/admin/tabs/create"
+  },
+  {
+    "name": "admin-tabs-show",
+    "path": "/admin/tabs/show",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tabs\\\\show.vue",
+    "chunkName": "pages/admin/tabs/show",
+    "url": "/admin/tabs/show"
+  },
+  {
+    "name": "admin-tax_classes-create",
+    "path": "/admin/tax_classes/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_classes\\\\create.vue",
+    "chunkName": "pages/admin/tax_classes/create",
+    "url": "/admin/tax_classes/create"
+  },
+  {
+    "name": "admin-tax_rates-create",
+    "path": "/admin/tax_rates/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_rates\\\\create.vue",
+    "chunkName": "pages/admin/tax_rates/create",
+    "url": "/admin/tax_rates/create"
+  },
+  {
+    "name": "admin-units-create",
+    "path": "/admin/units/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\units\\\\create.vue",
+    "chunkName": "pages/admin/units/create",
+    "url": "/admin/units/create"
+  },
+  {
+    "name": "admin-vendors-create",
+    "path": "/admin/vendors/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\vendors\\\\create.vue",
+    "chunkName": "pages/admin/vendors/create",
+    "url": "/admin/vendors/create"
+  },
+  {
+    "name": "admin-zones-create",
+    "path": "/admin/zones/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\zones\\\\create.vue",
+    "chunkName": "pages/admin/zones/create",
+    "url": "/admin/zones/create"
+  },
+  {
+    "name": "seller-faqs-create",
+    "path": "/seller/faqs/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\faqs\\\\create.vue",
+    "chunkName": "pages/seller/faqs/create",
+    "url": "/seller/faqs/create"
+  },
+  {
+    "name": "seller-media-mediaDetail",
+    "path": "/seller/media/mediaDetail",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\media\\\\mediaDetail.vue",
+    "chunkName": "pages/seller/media/mediaDetail",
+    "url": "/seller/media/mediaDetail"
+  },
+  {
+    "name": "seller-products-create",
+    "path": "/seller/products/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\products\\\\create.vue",
+    "chunkName": "pages/seller/products/create",
+    "url": "/seller/products/create"
+  },
+  {
+    "name": "seller-reports-orders",
+    "path": "/seller/reports/orders",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reports\\\\orders\\\\index.vue",
+    "chunkName": "pages/seller/reports/orders/index",
+    "url": "/seller/reports/orders"
+  },
+  {
+    "name": "seller-reports-products",
+    "path": "/seller/reports/products",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reports\\\\products\\\\index.vue",
+    "chunkName": "pages/seller/reports/products/index",
+    "url": "/seller/reports/products"
+  },
+  {
+    "name": "seller-reports-sales",
+    "path": "/seller/reports/sales",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reports\\\\sales\\\\index.vue",
+    "chunkName": "pages/seller/reports/sales/index",
+    "url": "/seller/reports/sales"
+  },
+  {
+    "name": "seller-reviews-create",
+    "path": "/seller/reviews/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reviews\\\\create.vue",
+    "chunkName": "pages/seller/reviews/create",
+    "url": "/seller/reviews/create"
+  },
+  {
+    "name": "seller-riders-create",
+    "path": "/seller/riders/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\riders\\\\create.vue",
+    "chunkName": "pages/seller/riders/create",
+    "url": "/seller/riders/create"
+  },
+  {
+    "name": "seller-seo_pages-create",
+    "path": "/seller/seo_pages/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\seo_pages\\\\create.vue",
+    "chunkName": "pages/seller/seo_pages/create",
+    "url": "/seller/seo_pages/create"
+  },
+  {
+    "name": "seller-static_banners-create",
+    "path": "/seller/static_banners/create",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\static_banners\\\\create.vue",
+    "chunkName": "pages/seller/static_banners/create",
+    "url": "/seller/static_banners/create"
+  },
+  {
+    "name": "admin-addresses-create-id",
+    "path": "/admin/addresses/create/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\addresses\\\\create\\\\_id.vue",
+    "chunkName": "pages/admin/addresses/create/_id"
+  },
+  {
+    "name": "admin-addresses-customer-id",
+    "path": "/admin/addresses/customer/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\addresses\\\\customer\\\\_id.vue",
+    "chunkName": "pages/admin/addresses/customer/_id"
+  },
+  {
+    "name": "admin-addresses-edit-id",
+    "path": "/admin/addresses/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\addresses\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/addresses/edit/_id"
+  },
+  {
+    "name": "admin-addresses-view-id",
+    "path": "/admin/addresses/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\addresses\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/addresses/view/_id"
+  },
+  {
+    "name": "admin-admins-edit-id",
+    "path": "/admin/admins/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\admins\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/admins/edit/_id"
+  },
+  {
+    "name": "admin-admins-view-id",
+    "path": "/admin/admins/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\admins\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/admins/view/_id"
+  },
+  {
+    "name": "admin-application_banners-edit-id",
+    "path": "/admin/application_banners/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_banners\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/application_banners/edit/_id"
+  },
+  {
+    "name": "admin-application_banners-view-id",
+    "path": "/admin/application_banners/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_banners\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/application_banners/view/_id"
+  },
+  {
+    "name": "admin-application_parallax_banners-edit-id",
+    "path": "/admin/application_parallax_banners/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_parallax_banners\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/application_parallax_banners/edit/_id"
+  },
+  {
+    "name": "admin-application_parallax_banners-view-id",
+    "path": "/admin/application_parallax_banners/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_parallax_banners\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/application_parallax_banners/view/_id"
+  },
+  {
+    "name": "admin-application_slider_images-edit-id",
+    "path": "/admin/application_slider_images/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_slider_images\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/application_slider_images/edit/_id"
+  },
+  {
+    "name": "admin-application_slider_images-view-id",
+    "path": "/admin/application_slider_images/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\application_slider_images\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/application_slider_images/view/_id"
+  },
+  {
+    "name": "admin-attribute_values-edit-id",
+    "path": "/admin/attribute_values/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attribute_values\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/attribute_values/edit/_id"
+  },
+  {
+    "name": "admin-attribute_values-view-id",
+    "path": "/admin/attribute_values/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attribute_values\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/attribute_values/view/_id"
+  },
+  {
+    "name": "admin-attributes-edit-id",
+    "path": "/admin/attributes/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attributes\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/attributes/edit/_id"
+  },
+  {
+    "name": "admin-attributes-view-id",
+    "path": "/admin/attributes/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\attributes\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/attributes/view/_id"
+  },
+  {
+    "name": "admin-brands-edit-id",
+    "path": "/admin/brands/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\brands\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/brands/edit/_id"
+  },
+  {
+    "name": "admin-brands-view-id",
+    "path": "/admin/brands/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\brands\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/brands/view/_id"
+  },
+  {
+    "name": "admin-categories-edit-id",
+    "path": "/admin/categories/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\categories\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/categories/edit/_id"
+  },
+  {
+    "name": "admin-categories-view-id",
+    "path": "/admin/categories/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\categories\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/categories/view/_id"
+  },
+  {
+    "name": "admin-cities-edit-id",
+    "path": "/admin/cities/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\cities\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/cities/edit/_id"
+  },
+  {
+    "name": "admin-cities-view-id",
+    "path": "/admin/cities/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\cities\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/cities/view/_id"
+  },
+  {
+    "name": "admin-contact_forms-edit-id",
+    "path": "/admin/contact_forms/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\contact_forms\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/contact_forms/edit/_id"
+  },
+  {
+    "name": "admin-contact_forms-view-id",
+    "path": "/admin/contact_forms/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\contact_forms\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/contact_forms/view/_id"
+  },
+  {
+    "name": "admin-content_application_pages-edit-id",
+    "path": "/admin/content_application_pages/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_application_pages\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/content_application_pages/edit/_id"
+  },
+  {
+    "name": "admin-content_application_pages-view-id",
+    "path": "/admin/content_application_pages/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_application_pages\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/content_application_pages/view/_id"
+  },
+  {
+    "name": "admin-content_pages-edit-id",
+    "path": "/admin/content_pages/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_pages\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/content_pages/edit/_id"
+  },
+  {
+    "name": "admin-content_pages-view-id",
+    "path": "/admin/content_pages/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\content_pages\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/content_pages/view/_id"
+  },
+  {
+    "name": "admin-countries-edit-id",
+    "path": "/admin/countries/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\countries\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/countries/edit/_id"
+  },
+  {
+    "name": "admin-countries-view-id",
+    "path": "/admin/countries/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\countries\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/countries/view/_id"
+  },
+  {
+    "name": "admin-coupons-edit-id",
+    "path": "/admin/coupons/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\coupons\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/coupons/edit/_id"
+  },
+  {
+    "name": "admin-coupons-view-id",
+    "path": "/admin/coupons/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\coupons\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/coupons/view/_id"
+  },
+  {
+    "name": "admin-currencies-edit-id",
+    "path": "/admin/currencies/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\currencies\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/currencies/edit/_id"
+  },
+  {
+    "name": "admin-currencies-view-id",
+    "path": "/admin/currencies/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\currencies\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/currencies/view/_id"
+  },
+  {
+    "name": "admin-customers-edit-id",
+    "path": "/admin/customers/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\customers\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/customers/edit/_id"
+  },
+  {
+    "name": "admin-customers-view-id",
+    "path": "/admin/customers/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\customers\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/customers/view/_id"
+  },
+  {
+    "name": "admin-faqs-edit-id",
+    "path": "/admin/faqs/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\faqs\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/faqs/edit/_id"
+  },
+  {
+    "name": "admin-faqs-view-id",
+    "path": "/admin/faqs/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\faqs\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/faqs/view/_id"
+  },
+  {
+    "name": "admin-languages-edit-id",
+    "path": "/admin/languages/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\languages\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/languages/edit/_id"
+  },
+  {
+    "name": "admin-languages-view-id",
+    "path": "/admin/languages/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\languages\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/languages/view/_id"
+  },
+  {
+    "name": "admin-live_chat-view-id",
+    "path": "/admin/live_chat/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\live_chat\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/live_chat/view/_id"
+  },
+  {
+    "name": "admin-manufacturers-edit-id",
+    "path": "/admin/manufacturers/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\manufacturers\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/manufacturers/edit/_id"
+  },
+  {
+    "name": "admin-manufacturers-view-id",
+    "path": "/admin/manufacturers/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\manufacturers\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/manufacturers/view/_id"
+  },
+  {
+    "name": "admin-news_categories-edit-id",
+    "path": "/admin/news_categories/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news_categories\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/news_categories/edit/_id"
+  },
+  {
+    "name": "admin-news_categories-view-id",
+    "path": "/admin/news_categories/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news_categories\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/news_categories/view/_id"
+  },
+  {
+    "name": "admin-news-edit-id",
+    "path": "/admin/news/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/news/edit/_id"
+  },
+  {
+    "name": "admin-news-view-id",
+    "path": "/admin/news/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\news\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/news/view/_id"
+  },
+  {
+    "name": "admin-newsletters-edit-id",
+    "path": "/admin/newsletters/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\newsletters\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/newsletters/edit/_id"
+  },
+  {
+    "name": "admin-newsletters-view-id",
+    "path": "/admin/newsletters/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\newsletters\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/newsletters/view/_id"
+  },
+  {
+    "name": "admin-order_statuses-edit-id",
+    "path": "/admin/order_statuses/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\order_statuses\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/order_statuses/edit/_id"
+  },
+  {
+    "name": "admin-order_statuses-view-id",
+    "path": "/admin/order_statuses/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\order_statuses\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/order_statuses/view/_id"
+  },
+  {
+    "name": "admin-orders-view-id",
+    "path": "/admin/orders/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\orders\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/orders/view/_id"
+  },
+  {
+    "name": "admin-parallax_banners-edit-id",
+    "path": "/admin/parallax_banners/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\parallax_banners\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/parallax_banners/edit/_id"
+  },
+  {
+    "name": "admin-parallax_banners-view-id",
+    "path": "/admin/parallax_banners/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\parallax_banners\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/parallax_banners/view/_id"
+  },
+  {
+    "name": "admin-payment_methods-edit-id",
+    "path": "/admin/payment_methods/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\payment_methods\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/payment_methods/edit/_id"
+  },
+  {
+    "name": "admin-permissions-edit-id",
+    "path": "/admin/permissions/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\permissions\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/permissions/edit/_id"
+  },
+  {
+    "name": "admin-permissions-view-id",
+    "path": "/admin/permissions/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\permissions\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/permissions/view/_id"
+  },
+  {
+    "name": "admin-products-edit-id",
+    "path": "/admin/products/edit/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\products\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/products/edit/_id/index"
+  },
+  {
+    "name": "admin-products-view-id",
+    "path": "/admin/products/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\products\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/products/view/_id"
+  },
+  {
+    "name": "admin-review_statuses-edit-id",
+    "path": "/admin/review_statuses/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\review_statuses\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/review_statuses/edit/_id"
+  },
+  {
+    "name": "admin-review_statuses-view-id",
+    "path": "/admin/review_statuses/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\review_statuses\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/review_statuses/view/_id"
+  },
+  {
+    "name": "admin-reviews-edit-id",
+    "path": "/admin/reviews/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reviews\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/reviews/edit/_id"
+  },
+  {
+    "name": "admin-reviews-view-id",
+    "path": "/admin/reviews/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\reviews\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/reviews/view/_id"
+  },
+  {
+    "name": "admin-riders-edit-id",
+    "path": "/admin/riders/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\riders\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/riders/edit/_id"
+  },
+  {
+    "name": "admin-riders-view-id",
+    "path": "/admin/riders/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\riders\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/riders/view/_id"
+  },
+  {
+    "name": "admin-roles-edit-id",
+    "path": "/admin/roles/edit/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\roles\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/roles/edit/_id/index"
+  },
+  {
+    "name": "admin-roles-view-id",
+    "path": "/admin/roles/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\roles\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/roles/view/_id"
+  },
+  {
+    "name": "admin-seo_pages-edit-id",
+    "path": "/admin/seo_pages/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\seo_pages\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/seo_pages/edit/_id"
+  },
+  {
+    "name": "admin-seo_pages-view-id",
+    "path": "/admin/seo_pages/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\seo_pages\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/seo_pages/view/_id"
+  },
+  {
+    "name": "admin-shipping_methods-edit-id",
+    "path": "/admin/shipping_methods/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\shipping_methods\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/shipping_methods/edit/_id"
+  },
+  {
+    "name": "admin-shipping_methods-view-id",
+    "path": "/admin/shipping_methods/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\shipping_methods\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/shipping_methods/view/_id"
+  },
+  {
+    "name": "admin-slider_images-edit-id",
+    "path": "/admin/slider_images/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\slider_images\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/slider_images/edit/_id"
+  },
+  {
+    "name": "admin-slider_images-view-id",
+    "path": "/admin/slider_images/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\slider_images\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/slider_images/view/_id"
+  },
+  {
+    "name": "admin-states-edit-id",
+    "path": "/admin/states/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\states\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/states/edit/_id"
+  },
+  {
+    "name": "admin-states-view-id",
+    "path": "/admin/states/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\states\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/states/view/_id"
+  },
+  {
+    "name": "admin-static_banners-edit-id",
+    "path": "/admin/static_banners/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\static_banners\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/static_banners/edit/_id"
+  },
+  {
+    "name": "admin-static_banners-view-id",
+    "path": "/admin/static_banners/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\static_banners\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/static_banners/view/_id"
+  },
+  {
+    "name": "admin-tabs-edit-id",
+    "path": "/admin/tabs/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tabs\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/tabs/edit/_id"
+  },
+  {
+    "name": "admin-tabs-view-id",
+    "path": "/admin/tabs/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tabs\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/tabs/view/_id"
+  },
+  {
+    "name": "admin-tax_classes-edit-id",
+    "path": "/admin/tax_classes/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_classes\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/tax_classes/edit/_id"
+  },
+  {
+    "name": "admin-tax_classes-view-id",
+    "path": "/admin/tax_classes/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_classes\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/tax_classes/view/_id"
+  },
+  {
+    "name": "admin-tax_rates-edit-id",
+    "path": "/admin/tax_rates/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_rates\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/tax_rates/edit/_id"
+  },
+  {
+    "name": "admin-tax_rates-view-id",
+    "path": "/admin/tax_rates/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\tax_rates\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/tax_rates/view/_id"
+  },
+  {
+    "name": "admin-units-edit-id",
+    "path": "/admin/units/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\units\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/units/edit/_id"
+  },
+  {
+    "name": "admin-units-view-id",
+    "path": "/admin/units/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\units\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/units/view/_id"
+  },
+  {
+    "name": "admin-vendors-edit-id",
+    "path": "/admin/vendors/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\vendors\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/vendors/edit/_id"
+  },
+  {
+    "name": "admin-vendors-view-id",
+    "path": "/admin/vendors/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\vendors\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/vendors/view/_id"
+  },
+  {
+    "name": "admin-zones-edit-id",
+    "path": "/admin/zones/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\zones\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/zones/edit/_id"
+  },
+  {
+    "name": "admin-zones-view-id",
+    "path": "/admin/zones/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\zones\\\\view\\\\_id.vue",
+    "chunkName": "pages/admin/zones/view/_id"
+  },
+  {
+    "name": "seller-faqs-edit-id",
+    "path": "/seller/faqs/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\faqs\\\\edit\\\\_id.vue",
+    "chunkName": "pages/seller/faqs/edit/_id"
+  },
+  {
+    "name": "seller-faqs-view-id",
+    "path": "/seller/faqs/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\faqs\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/faqs/view/_id"
+  },
+  {
+    "name": "seller-live_chat-view-id",
+    "path": "/seller/live_chat/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\live_chat\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/live_chat/view/_id"
+  },
+  {
+    "name": "seller-orders-view-id",
+    "path": "/seller/orders/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\orders\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/orders/view/_id"
+  },
+  {
+    "name": "seller-products-edit-id",
+    "path": "/seller/products/edit/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\products\\\\edit\\\\_id\\\\index.vue",
+    "chunkName": "pages/seller/products/edit/_id/index"
+  },
+  {
+    "name": "seller-products-view-id",
+    "path": "/seller/products/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\products\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/products/view/_id"
+  },
+  {
+    "name": "seller-reviews-edit-id",
+    "path": "/seller/reviews/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reviews\\\\edit\\\\_id.vue",
+    "chunkName": "pages/seller/reviews/edit/_id"
+  },
+  {
+    "name": "seller-reviews-view-id",
+    "path": "/seller/reviews/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\reviews\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/reviews/view/_id"
+  },
+  {
+    "name": "seller-riders-edit-id",
+    "path": "/seller/riders/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\riders\\\\edit\\\\_id.vue",
+    "chunkName": "pages/seller/riders/edit/_id"
+  },
+  {
+    "name": "seller-riders-view-id",
+    "path": "/seller/riders/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\riders\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/riders/view/_id"
+  },
+  {
+    "name": "seller-seo_pages-edit-id",
+    "path": "/seller/seo_pages/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\seo_pages\\\\edit\\\\_id.vue",
+    "chunkName": "pages/seller/seo_pages/edit/_id"
+  },
+  {
+    "name": "seller-seo_pages-view-id",
+    "path": "/seller/seo_pages/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\seo_pages\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/seo_pages/view/_id"
+  },
+  {
+    "name": "seller-static_banners-edit-id",
+    "path": "/seller/static_banners/edit/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\static_banners\\\\edit\\\\_id.vue",
+    "chunkName": "pages/seller/static_banners/edit/_id"
+  },
+  {
+    "name": "seller-static_banners-view-id",
+    "path": "/seller/static_banners/view/:id?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\static_banners\\\\view\\\\_id.vue",
+    "chunkName": "pages/seller/static_banners/view/_id"
+  },
+  {
+    "name": "admin-products-edit-id-step2",
+    "path": "/admin/products/edit/:id?/step2",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\products\\\\edit\\\\_id\\\\step2.vue",
+    "chunkName": "pages/admin/products/edit/_id/step2"
+  },
+  {
+    "name": "admin-products-edit-id-step3",
+    "path": "/admin/products/edit/:id?/step3",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\products\\\\edit\\\\_id\\\\step3.vue",
+    "chunkName": "pages/admin/products/edit/_id/step3"
+  },
+  {
+    "name": "admin-roles-edit-id-permissions",
+    "path": "/admin/roles/edit/:id?/permissions",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\admin\\\\roles\\\\edit\\\\_id\\\\permissions.vue",
+    "chunkName": "pages/admin/roles/edit/_id/permissions"
+  },
+  {
+    "name": "seller-products-edit-id-step2",
+    "path": "/seller/products/edit/:id?/step2",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\products\\\\edit\\\\_id\\\\step2.vue",
+    "chunkName": "pages/seller/products/edit/_id/step2"
+  },
+  {
+    "name": "seller-products-edit-id-step3",
+    "path": "/seller/products/edit/:id?/step3",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\seller\\\\products\\\\edit\\\\_id\\\\step3.vue",
+    "chunkName": "pages/seller/products/edit/_id/step3"
+  },
+  {
+    "name": "customer-orders-id",
+    "path": "/customer/orders/:id",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\customer\\\\orders\\\\_id.vue",
+    "chunkName": "pages/customer/orders/_id"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "page-slug",
+    "path": "/page/:slug",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\page\\\\_slug\\\\index.vue",
+    "chunkName": "pages/page/_slug/index"
+  },
+  {
+    "name": "product-slug",
+    "path": "/product/:slug?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\product\\\\_slug.vue",
+    "chunkName": "pages/product/_slug"
+  },
+  {
+    "name": "set-password-user",
+    "path": "/set-password/:user?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\set-password\\\\_user.vue",
+    "chunkName": "pages/set-password/_user"
+  },
+  {
+    "name": "store-slug",
+    "path": "/store/:slug",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\store\\\\_slug\\\\index.vue",
+    "chunkName": "pages/store/_slug/index"
+  },
+  {
+    "name": "store-slug-reviews",
+    "path": "/store/:slug?/reviews",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\store\\\\_slug\\\\reviews.vue",
+    "chunkName": "pages/store/_slug/reviews"
+  },
+  {
+    "name": "verify-email-id-hash",
+    "path": "/verify-email/:id?/:hash?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\verify-email\\\\_id\\\\_hash.vue",
+    "chunkName": "pages/verify-email/_id/_hash"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  },
+  {
+    "name": "ProcessingPayment-query",
+    "path": "/:ProcessingPayment/:query?",
+    "component": "C:\\\\wamp64\\\\www\\\\Nictus\\\\client\\\\pages\\\\_ProcessingPayment\\\\_query.vue",
+    "chunkName": "pages/_ProcessingPayment/_query"
+  }
+]

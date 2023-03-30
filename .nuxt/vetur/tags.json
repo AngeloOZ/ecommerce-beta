@@ -1,0 +1,926 @@
+{
+  "Template1BlogPostCard": {
+    "description": "Auto imported from components/website/Cards/template1/BlogPostCard.vue"
+  },
+  "Template1BrandCard": {
+    "description": "Auto imported from components/website/Cards/template1/BrandCard.vue"
+  },
+  "Template1CategoryBanner": {
+    "description": "Auto imported from components/website/Cards/template1/CategoryBanner.vue"
+  },
+  "Template1CompareProductCard": {
+    "description": "Auto imported from components/website/Cards/template1/CompareProductCard.vue"
+  },
+  "Template1CustomerReviewCard": {
+    "description": "Auto imported from components/website/Cards/template1/CustomerReviewCard.vue"
+  },
+  "Template1FeaturedProductCard": {
+    "description": "Auto imported from components/website/Cards/template1/FeaturedProductCard.vue"
+  },
+  "Template1FlashSaleProductCard": {
+    "description": "Auto imported from components/website/Cards/template1/FlashSaleProductCard.vue"
+  },
+  "Template1MartProductsCard": {
+    "description": "Auto imported from components/website/Cards/template1/MartProductsCard.vue"
+  },
+  "Template1NewArrivalProductCard": {
+    "description": "Auto imported from components/website/Cards/template1/NewArrivalProductCard.vue"
+  },
+  "Template1StaticCards": {
+    "description": "Auto imported from components/website/Cards/template1/StaticCards.vue"
+  },
+  "Template1UpComingItemsProductCard": {
+    "description": "Auto imported from components/website/Cards/template1/UpComingItemsProductCard.vue"
+  },
+  "Template1VendorListCard": {
+    "description": "Auto imported from components/website/Cards/template1/VendorListCard.vue"
+  },
+  "Template1WishlistProductCard": {
+    "description": "Auto imported from components/website/Cards/template1/WishlistProductCard.vue"
+  },
+  "Template2BlogPostCard": {
+    "description": "Auto imported from components/website/Cards/template2/BlogPostCard.vue"
+  },
+  "Template2BrandCard": {
+    "description": "Auto imported from components/website/Cards/template2/BrandCard.vue"
+  },
+  "Template2CategoryBanner": {
+    "description": "Auto imported from components/website/Cards/template2/CategoryBanner.vue"
+  },
+  "Template2CompareProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/CompareProductCard.vue"
+  },
+  "Template2CustomerReviewCard": {
+    "description": "Auto imported from components/website/Cards/template2/CustomerReviewCard.vue"
+  },
+  "Template2FeaturedProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/FeaturedProductCard.vue"
+  },
+  "Template2FlashSaleProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/FlashSaleProductCard.vue"
+  },
+  "Template2MartProductsCard": {
+    "description": "Auto imported from components/website/Cards/template2/MartProductsCard.vue"
+  },
+  "Template2NewArrivalProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/NewArrivalProductCard.vue"
+  },
+  "Template2StaticCards": {
+    "description": "Auto imported from components/website/Cards/template2/StaticCards.vue"
+  },
+  "Template2TrendingProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/TrendingProductCard.vue"
+  },
+  "Template2UpComingItemsProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/UpComingItemsProductCard.vue"
+  },
+  "Template2VendorListCard": {
+    "description": "Auto imported from components/website/Cards/template2/VendorListCard.vue"
+  },
+  "Template2WishlistProductCard": {
+    "description": "Auto imported from components/website/Cards/template2/WishlistProductCard.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1AuthModal": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/AuthModal.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1AuthModalSidebar": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/AuthModalSidebar.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1BillingAddressForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/BillingAddressForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1BtnOrder": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/BtnOrder.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1CartDetail": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/CartDetail.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1CartSummary": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/CartSummary.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1CartTotals": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/CartTotals.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1ContinueShopping": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/ContinueShopping.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1MyBillingAddressForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/MyBillingAddressForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1MyPaymentMethodForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/MyPaymentMethodForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1MyProfileTab": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/MyProfileTab.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1MyShippingForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/MyShippingForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1PaymentMethodForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/PaymentMethodForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1ShippingForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/ShippingForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1ShippingMethod": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/ShippingMethod.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1StepWidget": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/StepWidget.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1TestingButton": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/TestingButton.vue"
+  },
+  "WebsiteOrderFormStepsTemplate1ThankYou": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template1/ThankYou.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2AuthModal": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/AuthModal.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2AuthModalSidebar": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/AuthModalSidebar.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2BillingAddressForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/BillingAddressForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2BtnOrder": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/BtnOrder.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2CartDetail": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/CartDetail.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2CartSummary": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/CartSummary.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2CartTotals": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/CartTotals.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2ContinueShopping": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/ContinueShopping.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2MyBillingAddressForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/MyBillingAddressForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2MyPaymentMethodForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/MyPaymentMethodForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2MyProfileTab": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/MyProfileTab.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2MyShippingForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/MyShippingForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2PaymentMethodForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/PaymentMethodForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2ShippingForm": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/ShippingForm.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2ShippingMethod": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/ShippingMethod.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2StepWidget": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/StepWidget.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2TestingButton": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/TestingButton.vue"
+  },
+  "WebsiteOrderFormStepsTemplate2ThankYou": {
+    "description": "Auto imported from components/website/OrderFormSteps/Template2/ThankYou.vue"
+  },
+  "WebsiteSkeletonTemplate1AboutUsPage": {
+    "description": "Auto imported from components/website/skeleton/template1/AboutUsPage.vue"
+  },
+  "WebsiteSkeletonTemplate1BlogDetailPage": {
+    "description": "Auto imported from components/website/skeleton/template1/BlogDetailPage.vue"
+  },
+  "WebsiteSkeletonTemplate1BlogPage": {
+    "description": "Auto imported from components/website/skeleton/template1/BlogPage.vue"
+  },
+  "WebsiteSkeletonTemplate1BrandsPage": {
+    "description": "Auto imported from components/website/skeleton/template1/BrandsPage.vue"
+  },
+  "WebsiteSkeletonTemplate1CartPage": {
+    "description": "Auto imported from components/website/skeleton/template1/CartPage.vue"
+  },
+  "WebsiteSkeletonTemplate1ComparePage": {
+    "description": "Auto imported from components/website/skeleton/template1/ComparePage.vue"
+  },
+  "WebsiteSkeletonTemplate1Contact": {
+    "description": "Auto imported from components/website/skeleton/template1/Contact.vue"
+  },
+  "WebsiteSkeletonTemplate1FeaturedItems": {
+    "description": "Auto imported from components/website/skeleton/template1/FeaturedItems.vue"
+  },
+  "WebsiteSkeletonTemplate1FlashSaleCard": {
+    "description": "Auto imported from components/website/skeleton/template1/FlashSaleCard.vue"
+  },
+  "WebsiteSkeletonTemplate1Heroslider": {
+    "description": "Auto imported from components/website/skeleton/template1/Heroslider.vue"
+  },
+  "WebsiteSkeletonTemplate1LatestPost": {
+    "description": "Auto imported from components/website/skeleton/template1/LatestPost.vue"
+  },
+  "WebsiteSkeletonTemplate1MyProfilePage": {
+    "description": "Auto imported from components/website/skeleton/template1/MyProfilePage.vue"
+  },
+  "WebsiteSkeletonTemplate1NewArrival": {
+    "description": "Auto imported from components/website/skeleton/template1/NewArrival.vue"
+  },
+  "WebsiteSkeletonTemplate1OrderDetailPage": {
+    "description": "Auto imported from components/website/skeleton/template1/OrderDetailPage.vue"
+  },
+  "WebsiteSkeletonTemplate1OrdersPage": {
+    "description": "Auto imported from components/website/skeleton/template1/OrdersPage.vue"
+  },
+  "WebsiteSkeletonTemplate1Parallex": {
+    "description": "Auto imported from components/website/skeleton/template1/Parallex.vue"
+  },
+  "WebsiteSkeletonTemplate1ProductDetailPage": {
+    "description": "Auto imported from components/website/skeleton/template1/ProductDetailPage.vue"
+  },
+  "WebsiteSkeletonTemplate1ReviewPage": {
+    "description": "Auto imported from components/website/skeleton/template1/ReviewPage.vue"
+  },
+  "WebsiteSkeletonTemplate1ShopPage": {
+    "description": "Auto imported from components/website/skeleton/template1/ShopPage.vue"
+  },
+  "WebsiteSkeletonTemplate1StoresPage": {
+    "description": "Auto imported from components/website/skeleton/template1/StoresPage.vue"
+  },
+  "WebsiteSkeletonTemplate1Testimonial": {
+    "description": "Auto imported from components/website/skeleton/template1/Testimonial.vue"
+  },
+  "WebsiteSkeletonTemplate1TopBrands": {
+    "description": "Auto imported from components/website/skeleton/template1/TopBrands.vue"
+  },
+  "WebsiteSkeletonTemplate1UpComing": {
+    "description": "Auto imported from components/website/skeleton/template1/UpComing.vue"
+  },
+  "WebsiteSkeletonTemplate1VendorDetail": {
+    "description": "Auto imported from components/website/skeleton/template1/VendorDetail.vue"
+  },
+  "WebsiteSkeletonTemplate1Vendors": {
+    "description": "Auto imported from components/website/skeleton/template1/Vendors.vue"
+  },
+  "WebsiteSkeletonTemplate1WishList": {
+    "description": "Auto imported from components/website/skeleton/template1/WishList.vue"
+  },
+  "WebsiteSkeletonTemplate2AboutUsPage": {
+    "description": "Auto imported from components/website/skeleton/template2/AboutUsPage.vue"
+  },
+  "WebsiteSkeletonTemplate2Banner": {
+    "description": "Auto imported from components/website/skeleton/template2/Banner.vue"
+  },
+  "WebsiteSkeletonTemplate2BlogDetailPage": {
+    "description": "Auto imported from components/website/skeleton/template2/BlogDetailPage.vue"
+  },
+  "WebsiteSkeletonTemplate2BlogPage": {
+    "description": "Auto imported from components/website/skeleton/template2/BlogPage.vue"
+  },
+  "WebsiteSkeletonTemplate2BrandsPage": {
+    "description": "Auto imported from components/website/skeleton/template2/BrandsPage.vue"
+  },
+  "WebsiteSkeletonTemplate2CartPage": {
+    "description": "Auto imported from components/website/skeleton/template2/CartPage.vue"
+  },
+  "WebsiteSkeletonTemplate2ComparePage": {
+    "description": "Auto imported from components/website/skeleton/template2/ComparePage.vue"
+  },
+  "WebsiteSkeletonTemplate2Contact": {
+    "description": "Auto imported from components/website/skeleton/template2/Contact.vue"
+  },
+  "WebsiteSkeletonTemplate2FeaturedItems": {
+    "description": "Auto imported from components/website/skeleton/template2/FeaturedItems.vue"
+  },
+  "WebsiteSkeletonTemplate2FlashSaleCard": {
+    "description": "Auto imported from components/website/skeleton/template2/FlashSaleCard.vue"
+  },
+  "WebsiteSkeletonTemplate2Heroslider": {
+    "description": "Auto imported from components/website/skeleton/template2/Heroslider.vue"
+  },
+  "WebsiteSkeletonTemplate2LatestPost": {
+    "description": "Auto imported from components/website/skeleton/template2/LatestPost.vue"
+  },
+  "WebsiteSkeletonTemplate2LatestProducts": {
+    "description": "Auto imported from components/website/skeleton/template2/LatestProducts.vue"
+  },
+  "WebsiteSkeletonTemplate2MyProfilePage": {
+    "description": "Auto imported from components/website/skeleton/template2/MyProfilePage.vue"
+  },
+  "WebsiteSkeletonTemplate2NewArrival": {
+    "description": "Auto imported from components/website/skeleton/template2/NewArrival.vue"
+  },
+  "WebsiteSkeletonTemplate2NewArrivalProducts": {
+    "description": "Auto imported from components/website/skeleton/template2/NewArrivalProducts.vue"
+  },
+  "WebsiteSkeletonTemplate2OrderDetailPage": {
+    "description": "Auto imported from components/website/skeleton/template2/OrderDetailPage.vue"
+  },
+  "WebsiteSkeletonTemplate2OrdersPage": {
+    "description": "Auto imported from components/website/skeleton/template2/OrdersPage.vue"
+  },
+  "WebsiteSkeletonTemplate2Parallex": {
+    "description": "Auto imported from components/website/skeleton/template2/Parallex.vue"
+  },
+  "WebsiteSkeletonTemplate2ProductDetailPage": {
+    "description": "Auto imported from components/website/skeleton/template2/ProductDetailPage.vue"
+  },
+  "WebsiteSkeletonTemplate2ReviewPage": {
+    "description": "Auto imported from components/website/skeleton/template2/ReviewPage.vue"
+  },
+  "WebsiteSkeletonTemplate2ShopPage": {
+    "description": "Auto imported from components/website/skeleton/template2/ShopPage.vue"
+  },
+  "WebsiteSkeletonTemplate2StoresPage": {
+    "description": "Auto imported from components/website/skeleton/template2/StoresPage.vue"
+  },
+  "WebsiteSkeletonTemplate2Testimonial": {
+    "description": "Auto imported from components/website/skeleton/template2/Testimonial.vue"
+  },
+  "WebsiteSkeletonTemplate2TopBrands": {
+    "description": "Auto imported from components/website/skeleton/template2/TopBrands.vue"
+  },
+  "WebsiteSkeletonTemplate2TrendingProducts": {
+    "description": "Auto imported from components/website/skeleton/template2/TrendingProducts.vue"
+  },
+  "WebsiteSkeletonTemplate2UpComing": {
+    "description": "Auto imported from components/website/skeleton/template2/UpComing.vue"
+  },
+  "WebsiteSkeletonTemplate2VendorDetail": {
+    "description": "Auto imported from components/website/skeleton/template2/VendorDetail.vue"
+  },
+  "WebsiteSkeletonTemplate2Vendors": {
+    "description": "Auto imported from components/website/skeleton/template2/Vendors.vue"
+  },
+  "WebsiteSkeletonTemplate2WishList": {
+    "description": "Auto imported from components/website/skeleton/template2/WishList.vue"
+  },
+  "AdminFormLoader": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/FormLoader.vue"
+  },
+  "AdminMediaLoader": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/MediaLoader.vue"
+  },
+  "AdminPermissionTable": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/PermissionTable.vue"
+  },
+  "AdminProductMedia": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/ProductMedia.vue"
+  },
+  "AdminTableLoader": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/TableLoader.vue"
+  },
+  "AdminViewImageLoader": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/ViewImageLoader.vue"
+  },
+  "AdminViewLoader": {
+    "description": "Auto imported from components/admin/Skeleton-Loader/ViewLoader.vue"
+  },
+  "SellerFormLoader": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/FormLoader.vue"
+  },
+  "SellerMediaLoader": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/MediaLoader.vue"
+  },
+  "SellerPermissionTable": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/PermissionTable.vue"
+  },
+  "SellerProductMedia": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/ProductMedia.vue"
+  },
+  "SellerTableLoader": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/TableLoader.vue"
+  },
+  "SellerViewImageLoader": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/ViewImageLoader.vue"
+  },
+  "SellerViewLoader": {
+    "description": "Auto imported from components/seller/Skeleton-Loader/ViewLoader.vue"
+  },
+  "WebsiteTemplate1": {
+    "description": "Auto imported from components/website/template1/429.vue"
+  },
+  "WebsiteTemplate1AvailableCoupons": {
+    "description": "Auto imported from components/website/template1/AvailableCoupons.vue"
+  },
+  "WebsiteTemplate1BlogCategories": {
+    "description": "Auto imported from components/website/template1/BlogCategories.vue"
+  },
+  "WebsiteTemplate1BlogSection": {
+    "description": "Auto imported from components/website/template1/BlogSection.vue"
+  },
+  "WebsiteTemplate1CheckoutPage": {
+    "description": "Auto imported from components/website/template1/CheckoutPage.vue"
+  },
+  "WebsiteTemplate1CompareEmpty": {
+    "description": "Auto imported from components/website/template1/CompareEmpty.vue"
+  },
+  "WebsiteTemplate1CompareSection": {
+    "description": "Auto imported from components/website/template1/CompareSection.vue"
+  },
+  "WebsiteTemplate1Error404": {
+    "description": "Auto imported from components/website/template1/Error404.vue"
+  },
+  "WebsiteTemplate1Error500": {
+    "description": "Auto imported from components/website/template1/Error500.vue"
+  },
+  "WebsiteTemplate1FeaturedItemsSection": {
+    "description": "Auto imported from components/website/template1/FeaturedItemsSection.vue"
+  },
+  "WebsiteTemplate1FeaturedVendorsSection": {
+    "description": "Auto imported from components/website/template1/FeaturedVendorsSection.vue"
+  },
+  "WebsiteTemplate1FlashSaleCardSection": {
+    "description": "Auto imported from components/website/template1/FlashSaleCardSection.vue"
+  },
+  "WebsiteTemplate1HeroSliderSection": {
+    "description": "Auto imported from components/website/template1/HeroSliderSection.vue"
+  },
+  "WebsiteTemplate1InstaFeed": {
+    "description": "Auto imported from components/website/template1/InstaFeed.vue"
+  },
+  "WebsiteTemplate1Layout": {
+    "description": "Auto imported from components/website/template1/Layout.vue"
+  },
+  "WebsiteTemplate1LocaleDropdown": {
+    "description": "Auto imported from components/website/template1/LocaleDropdown.vue"
+  },
+  "WebsiteTemplate1ModalNewsLetter": {
+    "description": "Auto imported from components/website/template1/ModalNewsLetter.vue"
+  },
+  "WebsiteTemplate1ModalProductDetail": {
+    "description": "Auto imported from components/website/template1/ModalProductDetail.vue"
+  },
+  "WebsiteTemplate1NewArrivalsSection": {
+    "description": "Auto imported from components/website/template1/NewArrivalsSection.vue"
+  },
+  "WebsiteTemplate1NewsLetterSection": {
+    "description": "Auto imported from components/website/template1/NewsLetterSection.vue"
+  },
+  "WebsiteTemplate1OffCanvas": {
+    "description": "Auto imported from components/website/template1/OffCanvas.vue"
+  },
+  "WebsiteTemplate1OrderEmpty": {
+    "description": "Auto imported from components/website/template1/OrderEmpty.vue"
+  },
+  "WebsiteTemplate1ParallexSection": {
+    "description": "Auto imported from components/website/template1/ParallexSection.vue"
+  },
+  "WebsiteTemplate1PermotionSection": {
+    "description": "Auto imported from components/website/template1/PermotionSection.vue"
+  },
+  "WebsiteTemplate1PlusMinusInput": {
+    "description": "Auto imported from components/website/template1/PlusMinusInput.vue"
+  },
+  "WebsiteTemplate1ProductInformation": {
+    "description": "Auto imported from components/website/template1/ProductInformation.vue"
+  },
+  "WebsiteTemplate1ProductRatingReview": {
+    "description": "Auto imported from components/website/template1/ProductRatingReview.vue"
+  },
+  "WebsiteTemplate1RecentArticles": {
+    "description": "Auto imported from components/website/template1/RecentArticles.vue"
+  },
+  "WebsiteTemplate1RelatedProductsSection": {
+    "description": "Auto imported from components/website/template1/RelatedProductsSection.vue"
+  },
+  "WebsiteTemplate1SetGuestLayout": {
+    "description": "Auto imported from components/website/template1/SetGuestLayout.vue"
+  },
+  "WebsiteTemplate1ShopPage": {
+    "description": "Auto imported from components/website/template1/ShopPage.vue"
+  },
+  "WebsiteTemplate1ShopPageSidebarCategoryRecursive": {
+    "description": "Auto imported from components/website/template1/ShopPageSidebarCategoryRecursive.vue"
+  },
+  "WebsiteTemplate1SiteSkeleton": {
+    "description": "Auto imported from components/website/template1/SiteSkeleton.vue"
+  },
+  "WebsiteTemplate1StaticCardsSection": {
+    "description": "Auto imported from components/website/template1/StaticCardsSection.vue"
+  },
+  "WebsiteTemplate1Testimonials": {
+    "description": "Auto imported from components/website/template1/Testimonials.vue"
+  },
+  "WebsiteTemplate1TopBrands": {
+    "description": "Auto imported from components/website/template1/TopBrands.vue"
+  },
+  "WebsiteTemplate1TrendingItems": {
+    "description": "Auto imported from components/website/template1/TrendingItems.vue"
+  },
+  "WebsiteTemplate1UpComingItems": {
+    "description": "Auto imported from components/website/template1/UpComingItems.vue"
+  },
+  "WebsiteTemplate1VendorNewArrivalsSection": {
+    "description": "Auto imported from components/website/template1/VendorNewArrivalsSection.vue"
+  },
+  "WebsiteTemplate1VendorTrendingItems": {
+    "description": "Auto imported from components/website/template1/VendorTrendingItems.vue"
+  },
+  "WebsiteTemplate1VendorUpComingItems": {
+    "description": "Auto imported from components/website/template1/VendorUpComingItems.vue"
+  },
+  "WebsiteTemplate1WishlistEmpty": {
+    "description": "Auto imported from components/website/template1/WishlistEmpty.vue"
+  },
+  "WebsiteTemplate2": {
+    "description": "Auto imported from components/website/template2/429.vue"
+  },
+  "WebsiteTemplate2AvailableCoupons": {
+    "description": "Auto imported from components/website/template2/AvailableCoupons.vue"
+  },
+  "WebsiteTemplate2BannerSection": {
+    "description": "Auto imported from components/website/template2/BannerSection.vue"
+  },
+  "WebsiteTemplate2BlogCategories": {
+    "description": "Auto imported from components/website/template2/BlogCategories.vue"
+  },
+  "WebsiteTemplate2BlogSection": {
+    "description": "Auto imported from components/website/template2/BlogSection.vue"
+  },
+  "WebsiteTemplate2BrandSection": {
+    "description": "Auto imported from components/website/template2/BrandSection.vue"
+  },
+  "WebsiteTemplate2CategoryBannerProSection": {
+    "description": "Auto imported from components/website/template2/CategoryBannerProSection.vue"
+  },
+  "WebsiteTemplate2CategorySliderSection": {
+    "description": "Auto imported from components/website/template2/CategorySliderSection.vue"
+  },
+  "WebsiteTemplate2CheckoutPage": {
+    "description": "Auto imported from components/website/template2/CheckoutPage.vue"
+  },
+  "WebsiteTemplate2CompareEmpty": {
+    "description": "Auto imported from components/website/template2/CompareEmpty.vue"
+  },
+  "WebsiteTemplate2CompareSection": {
+    "description": "Auto imported from components/website/template2/CompareSection.vue"
+  },
+  "WebsiteTemplate2Error404": {
+    "description": "Auto imported from components/website/template2/Error404.vue"
+  },
+  "WebsiteTemplate2Error500": {
+    "description": "Auto imported from components/website/template2/Error500.vue"
+  },
+  "WebsiteTemplate2FeaturedItemsSection": {
+    "description": "Auto imported from components/website/template2/FeaturedItemsSection.vue"
+  },
+  "WebsiteTemplate2FeaturedVendorsSection": {
+    "description": "Auto imported from components/website/template2/FeaturedVendorsSection.vue"
+  },
+  "WebsiteTemplate2FlashSaleCardSection": {
+    "description": "Auto imported from components/website/template2/FlashSaleCardSection.vue"
+  },
+  "WebsiteTemplate2HeroSliderSection": {
+    "description": "Auto imported from components/website/template2/HeroSliderSection.vue"
+  },
+  "WebsiteTemplate2InstaFeed": {
+    "description": "Auto imported from components/website/template2/InstaFeed.vue"
+  },
+  "WebsiteTemplate2Layout": {
+    "description": "Auto imported from components/website/template2/Layout.vue"
+  },
+  "WebsiteTemplate2LocaleDropdown": {
+    "description": "Auto imported from components/website/template2/LocaleDropdown.vue"
+  },
+  "WebsiteTemplate2ModalNewsLetter": {
+    "description": "Auto imported from components/website/template2/ModalNewsLetter.vue"
+  },
+  "WebsiteTemplate2ModalProductDetail": {
+    "description": "Auto imported from components/website/template2/ModalProductDetail.vue"
+  },
+  "WebsiteTemplate2NewArrivalsProducts": {
+    "description": "Auto imported from components/website/template2/NewArrivalsProducts.vue"
+  },
+  "WebsiteTemplate2NewArrivalsSection": {
+    "description": "Auto imported from components/website/template2/NewArrivalsSection.vue"
+  },
+  "WebsiteTemplate2NewsLetterSection": {
+    "description": "Auto imported from components/website/template2/NewsLetterSection.vue"
+  },
+  "WebsiteTemplate2OffCanvas": {
+    "description": "Auto imported from components/website/template2/OffCanvas.vue"
+  },
+  "WebsiteTemplate2OrderEmpty": {
+    "description": "Auto imported from components/website/template2/OrderEmpty.vue"
+  },
+  "WebsiteTemplate2ParallexSection": {
+    "description": "Auto imported from components/website/template2/ParallexSection.vue"
+  },
+  "WebsiteTemplate2PermotionSection": {
+    "description": "Auto imported from components/website/template2/PermotionSection.vue"
+  },
+  "WebsiteTemplate2PlusMinusInput": {
+    "description": "Auto imported from components/website/template2/PlusMinusInput.vue"
+  },
+  "WebsiteTemplate2ProductInformation": {
+    "description": "Auto imported from components/website/template2/ProductInformation.vue"
+  },
+  "WebsiteTemplate2ProductRatingReview": {
+    "description": "Auto imported from components/website/template2/ProductRatingReview.vue"
+  },
+  "WebsiteTemplate2RecentArticles": {
+    "description": "Auto imported from components/website/template2/RecentArticles.vue"
+  },
+  "WebsiteTemplate2RecentProductProducts": {
+    "description": "Auto imported from components/website/template2/RecentProductProducts.vue"
+  },
+  "WebsiteTemplate2RelatedProductsSection": {
+    "description": "Auto imported from components/website/template2/RelatedProductsSection.vue"
+  },
+  "WebsiteTemplate2SetGuestLayout": {
+    "description": "Auto imported from components/website/template2/SetGuestLayout.vue"
+  },
+  "WebsiteTemplate2ShopPage": {
+    "description": "Auto imported from components/website/template2/ShopPage.vue"
+  },
+  "WebsiteTemplate2ShopPageSidebarCategoryRecursive": {
+    "description": "Auto imported from components/website/template2/ShopPageSidebarCategoryRecursive.vue"
+  },
+  "WebsiteTemplate2SiteSkeleton": {
+    "description": "Auto imported from components/website/template2/SiteSkeleton.vue"
+  },
+  "WebsiteTemplate2Testimonials": {
+    "description": "Auto imported from components/website/template2/Testimonials.vue"
+  },
+  "WebsiteTemplate2TopBrands": {
+    "description": "Auto imported from components/website/template2/TopBrands.vue"
+  },
+  "WebsiteTemplate2TrendingItems": {
+    "description": "Auto imported from components/website/template2/TrendingItems.vue"
+  },
+  "WebsiteTemplate2TrendingProducts": {
+    "description": "Auto imported from components/website/template2/TrendingProducts.vue"
+  },
+  "WebsiteTemplate2TrendingProductSection": {
+    "description": "Auto imported from components/website/template2/TrendingProductSection.vue"
+  },
+  "WebsiteTemplate2UpComingItems": {
+    "description": "Auto imported from components/website/template2/UpComingItems.vue"
+  },
+  "WebsiteTemplate2VendorNewArrivalsSection": {
+    "description": "Auto imported from components/website/template2/VendorNewArrivalsSection.vue"
+  },
+  "WebsiteTemplate2VendorTrendingItems": {
+    "description": "Auto imported from components/website/template2/VendorTrendingItems.vue"
+  },
+  "WebsiteTemplate2VendorUpComingItems": {
+    "description": "Auto imported from components/website/template2/VendorUpComingItems.vue"
+  },
+  "WebsiteTemplate2WishlistEmpty": {
+    "description": "Auto imported from components/website/template2/WishlistEmpty.vue"
+  },
+  "WebsiteGlobalComponentsBreadCrumb": {
+    "description": "Auto imported from components/website/GlobalComponents/BreadCrumb.vue"
+  },
+  "WebsiteGlobalComponentsFaqs": {
+    "description": "Auto imported from components/website/GlobalComponents/Faqs.vue"
+  },
+  "WebsiteGlobalComponentsFeaturedVendor": {
+    "description": "Auto imported from components/website/GlobalComponents/FeaturedVendor.vue"
+  },
+  "WebsiteGlobalComponentsFeaturedVendorProfile": {
+    "description": "Auto imported from components/website/GlobalComponents/FeaturedVendorProfile.vue"
+  },
+  "WebsiteGlobalComponentsFilterBar": {
+    "description": "Auto imported from components/website/GlobalComponents/FilterBar.vue"
+  },
+  "WebsiteGlobalComponentsGrigListView": {
+    "description": "Auto imported from components/website/GlobalComponents/GrigListView.vue"
+  },
+  "WebsiteGlobalComponentsOrderDetailCard": {
+    "description": "Auto imported from components/website/GlobalComponents/OrderDetailCard.vue"
+  },
+  "WebsiteGlobalComponentsPaginationBar": {
+    "description": "Auto imported from components/website/GlobalComponents/PaginationBar.vue"
+  },
+  "WebsiteGlobalComponentsProductDetailCarousel": {
+    "description": "Auto imported from components/website/GlobalComponents/ProductDetailCarousel.vue"
+  },
+  "WebsiteGlobalComponentsProductDetailOptions": {
+    "description": "Auto imported from components/website/GlobalComponents/ProductDetailOptions.vue"
+  },
+  "WebsiteGlobalComponentsProfileLogOutSection": {
+    "description": "Auto imported from components/website/GlobalComponents/ProfileLogOutSection.vue"
+  },
+  "WebsiteGlobalComponentsSearchFiled": {
+    "description": "Auto imported from components/website/GlobalComponents/SearchFiled.vue"
+  },
+  "WebsiteGlobalComponentsShareIconPopup": {
+    "description": "Auto imported from components/website/GlobalComponents/ShareIconPopup.vue"
+  },
+  "WebsiteGlobalComponentsSubNavSection": {
+    "description": "Auto imported from components/website/GlobalComponents/SubNavSection.vue"
+  },
+  "WebsiteGlobalComponentsVandersPromoSection": {
+    "description": "Auto imported from components/website/GlobalComponents/VandersPromoSection.vue"
+  },
+  "WebsiteHeaderLayoutsLayout1": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout1.vue"
+  },
+  "WebsiteHeaderLayoutsLayout10": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout10.vue"
+  },
+  "WebsiteHeaderLayoutsLayout2": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout2.vue"
+  },
+  "WebsiteHeaderLayoutsLayout3": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout3.vue"
+  },
+  "WebsiteHeaderLayoutsLayout4": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout4.vue"
+  },
+  "WebsiteHeaderLayoutsLayout5": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout5.vue"
+  },
+  "WebsiteHeaderLayoutsLayout6": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout6.vue"
+  },
+  "WebsiteHeaderLayoutsLayout7": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout7.vue"
+  },
+  "WebsiteHeaderLayoutsLayout8": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout8.vue"
+  },
+  "WebsiteHeaderLayoutsLayout9": {
+    "description": "Auto imported from components/website/HeaderLayouts/Layout9.vue"
+  },
+  "WebsiteFooterLayoutsLayout1": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout1.vue"
+  },
+  "WebsiteFooterLayoutsLayout10": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout10.vue"
+  },
+  "WebsiteFooterLayoutsLayout2": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout2.vue"
+  },
+  "WebsiteFooterLayoutsLayout3": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout3.vue"
+  },
+  "WebsiteFooterLayoutsLayout4": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout4.vue"
+  },
+  "WebsiteFooterLayoutsLayout5": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout5.vue"
+  },
+  "WebsiteFooterLayoutsLayout6": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout6.vue"
+  },
+  "WebsiteFooterLayoutsLayout7": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout7.vue"
+  },
+  "WebsiteFooterLayoutsLayout8": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout8.vue"
+  },
+  "WebsiteFooterLayoutsLayout9": {
+    "description": "Auto imported from components/website/FooterLayouts/Layout9.vue"
+  },
+  "WebsiteCategorySmartBannerLayoutsLayout1": {
+    "description": "Auto imported from components/website/CategorySmartBannerLayouts/Layout1.vue"
+  },
+  "WebsiteCategorySmartBannerLayoutsLayout2": {
+    "description": "Auto imported from components/website/CategorySmartBannerLayouts/Layout2.vue"
+  },
+  "WebsiteCategorySmartBannerLayoutsLayout3": {
+    "description": "Auto imported from components/website/CategorySmartBannerLayouts/Layout3.vue"
+  },
+  "WebsiteCategorySmartBannerLayoutsLayout4": {
+    "description": "Auto imported from components/website/CategorySmartBannerLayouts/Layout4.vue"
+  },
+  "WebsiteCategorySmartBannerLayoutsLayout5": {
+    "description": "Auto imported from components/website/CategorySmartBannerLayouts/Layout5.vue"
+  },
+  "WebsiteProductCardLayoutsLayout1": {
+    "description": "Auto imported from components/website/ProductCardLayouts/Layout1.vue"
+  },
+  "WebsiteProductCardLayoutsLayout2": {
+    "description": "Auto imported from components/website/ProductCardLayouts/Layout2.vue"
+  },
+  "WebsiteProductCardLayoutsLayout3": {
+    "description": "Auto imported from components/website/ProductCardLayouts/Layout3.vue"
+  },
+  "WebsiteProductCardLayoutsLayout4": {
+    "description": "Auto imported from components/website/ProductCardLayouts/Layout4.vue"
+  },
+  "WebsiteProductCardLayoutsLayout5": {
+    "description": "Auto imported from components/website/ProductCardLayouts/Layout5.vue"
+  },
+  "AdminDeleteModal": {
+    "description": "Auto imported from components/admin/DeleteModal.vue"
+  },
+  "AdminErrorPage": {
+    "description": "Auto imported from components/admin/ErrorPage.vue"
+  },
+  "AdminFooter": {
+    "description": "Auto imported from components/admin/Footer.vue"
+  },
+  "AdminImportModal": {
+    "description": "Auto imported from components/admin/ImportModal.vue"
+  },
+  "AdminLoader": {
+    "description": "Auto imported from components/admin/Loader.vue"
+  },
+  "AdminLogo": {
+    "description": "Auto imported from components/admin/Logo.vue"
+  },
+  "AdminMaintenanceMode": {
+    "description": "Auto imported from components/admin/MaintenanceMode.vue"
+  },
+  "AdminMediaModal": {
+    "description": "Auto imported from components/admin/MediaModal.vue"
+  },
+  "AdminMediaMultipleModal": {
+    "description": "Auto imported from components/admin/MediaMultipleModal.vue"
+  },
+  "AdminMobileHeader": {
+    "description": "Auto imported from components/admin/MobileHeader.vue"
+  },
+  "AdminNavbar": {
+    "description": "Auto imported from components/admin/Navbar.vue"
+  },
+  "AdminOffCanvas": {
+    "description": "Auto imported from components/admin/OffCanvas.vue"
+  },
+  "AdminSearchSelectable": {
+    "description": "Auto imported from components/admin/SearchSelectable.vue"
+  },
+  "AdminSidebar": {
+    "description": "Auto imported from components/admin/Sidebar.vue"
+  },
+  "AdminSubOrderAccordion": {
+    "description": "Auto imported from components/admin/SubOrderAccordion.vue"
+  },
+  "SellerDeleteModal": {
+    "description": "Auto imported from components/seller/DeleteModal.vue"
+  },
+  "SellerFooter": {
+    "description": "Auto imported from components/seller/Footer.vue"
+  },
+  "SellerLoader": {
+    "description": "Auto imported from components/seller/Loader.vue"
+  },
+  "SellerLogo": {
+    "description": "Auto imported from components/seller/Logo.vue"
+  },
+  "SellerMaintenanceMode": {
+    "description": "Auto imported from components/seller/MaintenanceMode.vue"
+  },
+  "SellerMediaModal": {
+    "description": "Auto imported from components/seller/MediaModal.vue"
+  },
+  "SellerMediaMultipleModal": {
+    "description": "Auto imported from components/seller/MediaMultipleModal.vue"
+  },
+  "SellerMobileHeader": {
+    "description": "Auto imported from components/seller/MobileHeader.vue"
+  },
+  "SellerNavbar": {
+    "description": "Auto imported from components/seller/Navbar.vue"
+  },
+  "SellerOffCanvas": {
+    "description": "Auto imported from components/seller/OffCanvas.vue"
+  },
+  "SellerSearchSelectable": {
+    "description": "Auto imported from components/seller/SearchSelectable.vue"
+  },
+  "SellerShopDeactive": {
+    "description": "Auto imported from components/seller/ShopDeactive.vue"
+  },
+  "SellerShopSettings": {
+    "description": "Auto imported from components/seller/ShopSettings.vue"
+  },
+  "SellerSidebar": {
+    "description": "Auto imported from components/seller/Sidebar.vue"
+  },
+  "GlobalButton": {
+    "description": "Auto imported from components/global/Button.vue"
+  },
+  "GlobalCard": {
+    "description": "Auto imported from components/global/Card.vue"
+  },
+  "GlobalCheckbox": {
+    "description": "Auto imported from components/global/Checkbox.vue"
+  },
+  "GlobalCkeditorNuxt": {
+    "description": "Auto imported from components/global/CkeditorNuxt.vue"
+  },
+  "GlobalLoginWithGithub": {
+    "description": "Auto imported from components/global/LoginWithGithub.vue"
+  },
+  "GlobalLogo": {
+    "description": "Auto imported from components/global/Logo.vue"
+  },
+  "GlobalLogoHref": {
+    "description": "Auto imported from components/global/LogoHref.vue"
+  },
+  "GlobalNestedCategories": {
+    "description": "Auto imported from components/global/NestedCategories.vue"
+  },
+  "GlobalRadioButton": {
+    "description": "Auto imported from components/global/Radio-Button.vue"
+  },
+  "GlobalRating": {
+    "description": "Auto imported from components/global/Rating.vue"
+  }
+}
